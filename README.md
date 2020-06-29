@@ -1,4 +1,4 @@
-# imaP-Image to PDF Converter Application for Desktop
+# imaP-Image to PDF Converter Application for Windows
 
 Image To PDF Converter (Desktop Application For Windows)
 
