@@ -1,11 +1,10 @@
 
 <div align="center">
   <h1><strong>Imap: Image To PDF Converter (Desktop Application For Windows)</strong></h1>
-  <h3>This is an "Image to PDF Converter" (open source) software build for Windows. You can convert your image files to
+  <p>This is an "Image to PDF Converter" (open source) software build for Windows. You can convert your image files to
 PDF(Portable Document Format) files using this software. Just select your image files or the folder containing the images and convert them all into PDF file
-quickly.</h3>
-  .<br>
-  <h4>Available for Windows Desktop.</h4>
+quickly.</p>
+  <br>
   <p>Built With: Python 3.7, PyQT5, PILLOW / PIL (Python Image Library).</p>
 <p>Icons Credit: <a href ="https://icons8.com/">Icons8</a></p>
 </div>
@@ -15,7 +14,7 @@ quickly.</h3>
 <div align="center">
   <!-- Version -->
 
-   <img src="https://img.shields.io/badge/version-1.0-red" alt="website">
+   <img src="https://img.shields.io/badge/version-1.0-blue" alt="website">
  
   <!-- Build -->
   <img src="https://img.shields.io/badge/build-passed-brightgreen" alt="LICENSE">
@@ -32,12 +31,12 @@ quickly.</h3>
 
 
 <div align="center">
-  <sub>This Image to PDF Converter Software Tool is built with ❤︎ by
-    <a href="https://github.com/skinan/">Muhammad Sakib Khan Inan</a> and
+  <sub>This Image to PDF Converter Software Tool is built by
+    <a href="https://github.com/skinan/">Muhammad Sakib Khan Inan</a>
   </sub>
 </div>
 
-## Screenshot
+## Screenshots
 
 <p align="center">
   <img src="screenshots/home.jpg" alt="Home Window"/>
