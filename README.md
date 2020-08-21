@@ -1,22 +1,14 @@
 # imaP-Image to PDF Converter Application for Windows
 
-Image To PDF Converter (Desktop Application For Windows)
-
-This is an "Image to PDF Converter" (open source) software build for Windows. You can convert your image files to
+<div align="center">
+  <strong>Imap: Image To PDF Converter (Desktop Application For Windows)</strong><br>
+  This is an "Image to PDF Converter" (open source) software build for Windows. You can convert your image files to
 PDF(Portable Document Format) files using this software. Just select your image files or the folder containing the images and convert them all into PDF file
 quickly.
-<div>
-<p>Technologies used in this software: Python 3.7, PyQT5, PILLOW / PIL (Python Image Library).</p>
-<p>Icons Credit: <a href ="https://icons8.com/">Icons8</a></p>
-</div>
-
-
-
-
-<div align="center">
-  <strong>:star: Imap Image to PDF Converter Application For Windows :star:</strong><br>
-  A simple and elegant open-source hash checker software.<br>
+  .<br>
   <sub>Available for Windows Desktop.</sub>
+  <p>Technologies used in this software: Python 3.7, PyQT5, PILLOW / PIL (Python Image Library).</p>
+<p>Icons Credit: <a href ="https://icons8.com/">Icons8</a></p>
 </div>
 
 <br>
@@ -61,6 +53,3 @@ quickly.
 - Dark Theme
 - Change The Order of Images to Make A PDF
 - Create A PDF at Your Desired Location 
-
-## Credits
-<div>Icons made by <a href="https://icons8.com/">Icons8</a></div>
