@@ -11,10 +11,10 @@ quickly.
 </div>
 
 
-<p align="center"><img src="imap-Image-to-PDF-Converter-Application-For-Windows/icons/app_icon.ico" alt="Hash Checker" width="35%"></p>
+
 
 <div align="center">
-  <strong>:star: Free Hash Checking Tool :star:</strong><br>
+  <strong>:star: Imap Image to PDF Converter Application For Windows :star:</strong><br>
   A simple and elegant open-source hash checker software.<br>
   <sub>Available for Windows Desktop.</sub>
 </div>
@@ -23,9 +23,9 @@ quickly.
 
 <div align="center">
   <!-- Version -->
-  <a href="https://rizwan-hasan.github.io/Free-Hash-Checker/">
-    <img src="https://img.shields.io/badge/version-1.0-orange" alt="website">
-  </a>
+
+   <img src="https://img.shields.io/badge/version-1.0-orange" alt="website">
+ 
   <!-- Build -->
   <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="LICENSE">
   <!-- License -->
@@ -43,9 +43,6 @@ quickly.
 <div align="center">
   <sub>This Image to PDF Converter Software Tool is built with ❤︎ by
     <a href="https://github.com/skinan/">Muhammad Sakib Khan Inan</a> and
-    <a href="https://github.com/skinan/imap-Image-to-PDF-Converter-Application-For-Windows/graphs/contributors">
-      contributors
-    </a>
   </sub>
 </div>
 
@@ -67,6 +64,3 @@ quickly.
 
 ## Credits
 <div>Icons made by <a href="https://icons8.com/">Icons8</a></div>
-## License
-
-[**MIT**](LICENSE).
