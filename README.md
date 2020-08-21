@@ -20,7 +20,7 @@ quickly.</p>
   <img src="https://img.shields.io/badge/build-passed-brightgreen" alt="LICENSE">
   <!-- License -->
   <a href="LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-green" alt="LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-red" alt="LICENSE">
   </a>
 </div>
 
