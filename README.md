@@ -9,6 +9,7 @@ quickly.</p>
 <p>Icons Credit: <a href ="https://icons8.com/">Icons8</a></p>
 </div>
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/?via=sakibkhaninan){:target="_blank"}
 <br>
 
 <div align="center">
